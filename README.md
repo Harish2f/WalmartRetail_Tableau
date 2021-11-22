@@ -2,7 +2,7 @@
 
 This demonstrates dashboards built for Revenue and Profit Analysis done for Walmart Retail data using Tableau
 
-![]Walmart.png
+![alt-text](Walmart.png)
 
 Building this project involved 
   - ETL 
