@@ -1,4 +1,4 @@
-# WalmartRetail Analytics Tableau
+# Walmart Retail Analytics Tableau
 
 This demonstrates dashboards built for Revenue and Profit Analysis done for Walmart Retail data using Tableau
 
