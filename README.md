@@ -1,7 +1,8 @@
 # WalmartRetail Analytics Tableau
 
 This demonstrates dashboards built for Revenue and Profit Analysis done for Walmart Retail data using Tableau
-The data is available in mysql export
+
+![]Walmart.png
 
 Building this project involved 
   - ETL 
